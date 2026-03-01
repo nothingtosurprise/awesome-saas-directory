@@ -47,6 +47,13 @@ An open-source Go backend that provides an all-in-one solution for building web 
 
 NocoDB is an open-source Airtable alternative that transforms your database into a collaborative spreadsheet. It provides an intuitive interface for managing, editing, and sharing data without requiring extensive technical expertise.
 
+### [LastSaaS](https://github.com/jonradoff/lastsaas)
+![Stars](https://img.shields.io/github/stars/jonradoff/lastsaas?style=social)
+
+<img src="https://avatars.githubusercontent.com/u/24194539?v=4" width="50" height="50">
+
+An open-source AI-native SaaS platform foundation with multi-tenant auth, Stripe billing, white-label branding, MCP server (26 tools), webhooks, API keys, and admin dashboard. Built with Go, React, TypeScript, and MongoDB.
+
 ## Content Management Systems
 
 ### [Strapi](https://github.com/strapi/strapi)
