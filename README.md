@@ -299,6 +299,13 @@ A robust framework for developing business applications like CRM systems, offeri
 
 An AI-powered social media scheduling platform that helps businesses manage posts, build audiences, and optimize content across multiple social media platforms.
 
+### [Tymeslot](https://github.com/Tymeslot/tymeslot)
+![Stars](https://img.shields.io/github/stars/Tymeslot/tymeslot?style=social)
+
+<img src="https://avatars.githubusercontent.com/u/225143320?v=4" width="50" height="50">
+
+An open-source meeting scheduling platform built with Elixir/Phoenix LiveView. Self-hostable alternative to Calendly with calendar sync, video conferencing integration, timezone support, and SSO.
+
 ## Desktop Applications
 
 ### [CodeEdit](https://github.com/CodeEditApp/CodeEdit)
