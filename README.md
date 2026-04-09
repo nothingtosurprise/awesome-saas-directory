@@ -11,6 +11,7 @@ A curated list of production-ready open source SaaS applications and platforms. 
 - [Developer Tools](#developer-tools)
 - [Team Collaboration](#team-collaboration)
 - [Customer Support & Engagement](#customer-support--engagement)
+- [CRM & Sales](#crm--sales)
 - [Productivity & Project Management](#productivity--project-management)
 - [Desktop Applications](#desktop-applications)
 - [Infrastructure & DevOps](#infrastructure--devops)
@@ -268,6 +269,13 @@ An open-source surveying platform that helps teams gather user feedback through 
 <img src="https://avatars.githubusercontent.com/u/153686064?v=4" width="50" height="50">
 
 An open source feedback platform with voting boards, public roadmaps, changelogs, and a built-in MCP server for AI agents. Alternative to Canny and UserVoice.
+
+## CRM & Sales
+
+### [Customermates](https://github.com/customermates/customermates)
+![Stars](https://img.shields.io/github/stars/customermates/customermates?style=social)
+
+An open-source CRM with native n8n workflow automation, built for small B2B teams. Self-hostable via Docker. Alternative to Pipedrive and HubSpot. Built with TypeScript (Next.js, NestJS, PostgreSQL).
 
 ## Productivity & Project Management
 
