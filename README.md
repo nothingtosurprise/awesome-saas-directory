@@ -187,6 +187,13 @@ An open-source AI chat platform that integrates multiple AI models, offering enh
 
 An open-source, offline AI assistant that enables users to run language models locally with full privacy and control across multiple hardware platforms.
 
+### [Puppyone](https://github.com/puppyone-ai/puppyone)
+![Stars](https://img.shields.io/github/stars/puppyone-ai/puppyone?style=social)
+
+<img src="https://avatars.githubusercontent.com/u/143623203?v=4" width="50" height="50">
+
+An open-source context infrastructure for AI agents. It connects any source, versions every change Git-style, and scopes access per agent.
+
 ## Developer Tools
 
 ### [Hoppscotch](https://github.com/hoppscotch/hoppscotch)
